@@ -1,110 +1,118 @@
-# Reagan Ochola - Data Analytics & MEL Specialist Portfolio
-
-## 🌾 Turning Data into Actionable Intelligence for Agricultural Development
-
-Welcome to my professional portfolio showcasing 8+ years of experience in Monitoring, Evaluation & Learning (MEL) and data analytics for agricultural development across East Africa.
-
-## 📊 About Me
-
-I help agriculture and development organizations transform raw field data into insights that improve farmer outcomes, optimize operations, and scale impact. With extensive experience at One Acre Fund, I've built and managed data systems supporting smallholder farmers across Kenya, Rwanda, and Tanzania.
-
-### Key Achievements:
-- ✅ Managed field data collection teams of 50+ staff with &gt;95% accuracy
-- ✅ Reduced survey error rates by 35% through quality control systems
-- ✅ Developed Power BI dashboards tracking 18,000+ farmers in real-time
-- ✅ Analyzed 5,016 MSME manufacturing firms across Kenya
-- ✅ Processed 85,000+ agricultural images for crop monitoring
-
-## 🛠️ Core Competencies
-
-**Technical Skills:**
-- Power BI & Data Visualization (95%)
-- SQL & Database Management (90%)
-- Advanced Excel & Data Analysis (95%)
-- Python for Data Analysis (85%)
-- Statistical Analysis & Quantitative Research
-
-**Domain Expertise:**
-- Agricultural Data Analytics
-- MEL Framework Development
-- Field Operations Management
-- Capacity Building & Training
-- Geospatial Analysis
-
-## 📁 Portfolio Projects
-
-### 1. Kenya MSME Manufacturing Analysis
-- **Scope:** Comprehensive analysis of 5,016 manufacturing firms
-- **Impact:** Identified 11,277 jobs, 8.1% training efficiency gains
-- **Tools:** Python, Power BI, SQL, Statistical Analysis
-- **Repository:** [View Project](https://github.com/Ocholar/mel-case-study-kenya)
-
-### 2. East Africa Maize Yield Dashboard
-- **Scope:** Interactive dashboard for 18,000+ farmers across 3 countries
-- **Features:** Seasonal comparison, variety performance, geospatial clustering
-- **Tools:** Power BI, SQL, Geospatial Analysis
-- **Impact:** Enabled data-driven crop planning decisions
-
-### 3. AgroImageryTimeline Analysis
-- **Scope:** Analysis of 85,000+ field images for maize crop monitoring
-- **Technology:** Python, SQL, Timestamp validation
-- **Outcome:** Enhanced satellite imagery alignment with seasonal data
-
-## 🎯 Services Offered
-
-### Agricultural Data Analytics
-Transform field data into actionable insights for improved farmer outcomes and program effectiveness.
-
-### Power BI Dashboard Development
-Create interactive, real-time dashboards for monitoring agricultural performance metrics.
-
-### MEL Framework Development
-Design comprehensive monitoring systems with quality controls that reduce errors by up to 35%.
-
-### Field Data Management
-Lead large-scale data collection operations ensuring &gt;95% accuracy across diverse regions.
-
-### Quantitative Research & Analysis
-Conduct statistical analysis using Python, SQL, and advanced Excel for agricultural research.
-
-### Training & Capacity Building
-Mentor teams on data tools and analytical techniques for sustainable decision-making.
-
-## 🌍 Geographic Focus
-- **Primary:** Kenya, Rwanda, Tanzania
-- **Experience:** East Africa region
-- **Base:** Nairobi County, Kenya
-
-## 📞 Contact Information
-
-**Email:** reagan.ochola@gmail.com  
-**LinkedIn:** [Reagan Ochola](https://www.linkedin.com/in/reagan-ochola-aba10927)  
-**Location:** Nairobi, Kenya  
-**Availability:** Open to consulting opportunities and collaborations
-
-## 🏆 Certifications
-- BCG - Introduction to Data for Decision Makers (Forage)
-- Career Essentials in Data Analysis (Microsoft & LinkedIn)
-
-## 📚 Education
-- **M.Sc.** - Jomo Kenyatta University of Agriculture and Technology (JKUAT)
-- **B.Sc.** - Egerton University, Kenya
-
-## 🔗 Quick Links
-- [Portfolio](https://ocholar.github.io/portfolio.html)
-- [Services](https://ocholar.github.io/services.html)
-- [Resume](https://ocholar.github.io/resume.html)
-- [Contact](https://ocholar.github.io/contact.html)
-
-## 📈 Impact Metrics
-- **8+ Years** MEL experience in agriculture
-- **50+ Staff** managed in field operations
-- **35% Error Reduction** achieved through quality systems
-- **18,000+ Farmers** tracked through dashboards
-- **5,016 Firms** analyzed in quantitative studies
+# Reagan Ochola – Strategic MEL Leader & Data Analytics Specialist  
 
 ---
 
-**Ready to transform your agricultural data into actionable intelligence?** Let's connect and discuss how we can improve farmer outcomes together.
+## 🌾 Turning Data into Actionable Intelligence for Agriculture and Development  
 
+Welcome to my professional portfolio showcasing **9 years** of designing robust Monitoring, Evaluation & Learning (MEL) frameworks for multi-country donor programmes across East Africa.
+
+---
+
+## 📊 About Me – Key 2025 Metrics  
+
+| Metric | Value |
+|---|---|
+| **Years in MEL** | 9 |
+| **Staff Managed** | 50+ officers |
+| **Reporting TAT Cut** | 50 % (Power BI + SQL) |
+| **Data-Processing Time Cut** | 40 % |
+| **Survey Error Reduction** | 35 % |
+| **Farmers Reached** | 15 000+ |
+| **Firms Analysed** | 5 016 (MSME study) |
+| **Field Images Processed** | 85 000+ |
+
+I help agriculture and development organisations transform raw field data into insights that improve farmer outcomes, optimise operations and scale impact.
+
+---
+
+## 🛠️ Core Competencies  
+
+**Technical Skills**  
+- Power BI & Data Visualisation – **95 %**  
+- SQL & Database Management – **90 %**  
+- Python for Data Analysis – **85 %**  
+- Advanced Excel & SPSS – **90 %**  
+- Geospatial Analysis (Plotly Dash, Power BI)  
+
+**Domain Expertise**  
+- Agricultural Data Analytics  
+- MEL Framework Design (donor compliant)  
+- Field Operations Management  
+- Capacity Building & Training  
+- Quantitative Research & Impact Evaluation  
+
+---
+
+## 📁 Featured Projects *(with GitHub Repos)*  
+
+| Project | Scope | Impact | Tools | Code |
+|---|---|---|---|---|
+| **Kenya MSME Manufacturing Analysis** | 5 016 MSME firms | 11 277 jobs identified, 8.1 % training-efficiency gain | Python, Power BI, SQL | [Repo](https://github.com/Ocholar/mel-case-study-kenya) |
+| **East Africa Maize Yield Dashboard** | 18 000+ farmers (3 countries) | Real-time crop-planning decisions | Power BI, SQL | [Repo](https://github.com/Ocholar/East_Africa_Maize_Yield_Insights) |
+| **AgroImageryTimeline** | 85 000+ geotagged field images | Enhanced satellite-alignment for crop monitoring | Python, SQL | [Repo](https://github.com/Ocholar/AgroImageryTimeline) |
+| **AgroDashboard** | Geospatial maize-yield clustering | Live yield-analytics web-app | Plotly Dash, Python | [Repo](https://github.com/Ocholar/AgroDashboard) |
+| **Financial Pricing Model Analysis** | Agricultural products pricing optimisation | Statistical modelling & forecasting | Python, Excel | [Repo](https://github.com/Ocholar/Financial-Pricing-Model-Analysis) |
+
+---
+
+## 🎯 Services Offered  
+
+1. **Agricultural Data Analytics**  
+   Crop-yield prediction, farmer-behaviour segmentation, programme-impact quantification.  
+
+2. **Power BI Dashboard Development**  
+   Interactive, real-time dashboards that cut reporting TAT **50 %**.  
+
+3. **MEL Framework Development**  
+   Donor-compliant frameworks (USAID, etc.) with **35 %** error-reduction protocols.  
+
+4. **Field Data Management**  
+   **50+ officer** deployments, **>95 %** accuracy via CommCare & Kobo Toolbox.  
+
+5. **Quantitative Research & Analysis**  
+   Python, SQL, SPSS – MSME studies, training-impact, gender-equity analysis.  
+
+6. **Training & Capacity Building**  
+   Power BI, SQL, Python workshops; ethical-data-collection certification.  
+
+---
+
+## 🌍 Geographic Focus  
+**Primary:** EAst Africa  
+**Base:** Nairobi County, Kenya  
+
+---
+
+## 📞 Contact & Quick Links  
+
+**Email:** reaochola@gmail.com  
+**LinkedIn:** [Reagan Ochola](https://www.linkedin.com/in/reagan-ochola-aba10927)  
+**Portfolio Site:** [ocholar.github.io](https://ocholar.github.io)  
+
+| Quick Link | URL |
+|---|---|
+| Portfolio | [Projects](https://ocholar.github.io/portfolio.html) |
+| Services | [What I Offer](https://ocholar.github.io/services.html) |
+| Resume | [CV PDF](https://ocholar.github.io/resume.html) |
+| Contact | [Get In Touch](https://ocholar.github.io/contact.html) |
+
+---
+
+## 🏆 Recent Certifications (2025)  
+
+- **Google Business Intelligence Certificate** – Coursera (2025)  
+- **Artificial Intelligence for MEL** – Alison (2025)  
+- **Career Essentials in Data Analysis** – Microsoft & LinkedIn (2025)  
+- **BCG Data for Decision Makers Job Simulation** – Forage (2025)  
+
+---
+
+## 📚 Education  
+
+- **M.Sc. Project Management** – Jomo Kenyatta University of Agriculture & Technology (2015-2017)  
+- **B.Sc. Community Development** – Egerton University, Kenya (2010-2014)  
+
+---
+
+**Ready to transform your dataset into actionable intelligence?**  
 [📧 Get In Touch](mailto:reaochola@gmail.com) | [💼 View Services](https://ocholar.github.io/services.html) | [📊 See Portfolio](https://ocholar.github.io/portfolio.html)
