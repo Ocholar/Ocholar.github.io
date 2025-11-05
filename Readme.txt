@@ -59,35 +59,50 @@ I help agriculture and development organisations transform raw field data into i
 ## 🎯 Services Offered  
 
 1. **Agricultural Data Analytics**  
+
    Crop-yield prediction, farmer-behaviour segmentation, programme-impact quantification.  
 
+
 2. **Power BI Dashboard Development**  
+
    Interactive, real-time dashboards that cut reporting TAT **50 %**.  
 
+
 3. **MEL Framework Development**  
+
    Donor-compliant frameworks (USAID, etc.) with **35 %** error-reduction protocols.  
 
+
 4. **Field Data Management**  
+
    **50+ officer** deployments, **&gt;95 %** accuracy via CommCare & Kobo Toolbox.  
 
+
 5. **Quantitative Research & Analysis**  
+
    Python, SQL, SPSS – MSME studies, training-impact, gender-equity analysis.  
 
+
 6. **Training & Capacity Building**  
+
    Power BI, SQL, Python workshops; ethical-data-collection certification.  
+
 
 ---
 
+
 ## 🌍 Geographic Focus  
-**Primary:** Kenya, East Africa  
+**Primary:** East Africa  
 **Base:** Nairobi County, Kenya  
 
 ---
 
 ## 📞 Contact & Quick Links  
 
-**Email:** reaochola@gmail.com  
+**Email:** ochola.cc.cc  
+
 **LinkedIn:** [Reagan Ochola](https://www.linkedin.com/in/reagan-ochola-aba10927)  
+
 **Portfolio Site:** [ocholar.github.io](https://ocholar.github.io)  
 
 | Quick Link | URL |
@@ -102,8 +117,11 @@ I help agriculture and development organisations transform raw field data into i
 ## 🏆 Recent Certifications (2025)  
 
 - **Google Business Intelligence Certificate** – Coursera (2025)  
+
 - **Artificial Intelligence for MEL** – Alison (2025)  
+
 - **Career Essentials in Data Analysis** – Microsoft & LinkedIn (2025)  
+
 - **BCG Data for Decision Makers Job Simulation** – Forage (2025)  
 
 ---
@@ -111,9 +129,10 @@ I help agriculture and development organisations transform raw field data into i
 ## 📚 Education  
 
 - **M.Sc. Project Management** – Jomo Kenyatta University of Agriculture & Technology (2015-2017)  
+
 - **B.Sc. Community Development** – Egerton University, Kenya (2010-2014)  
 
 ---
 
-**Ready to transform your agricultural data into actionable intelligence?**  
+**Ready to transform your datasets into actionable intelligence?**  
 [📧 Get In Touch](mailto:reaochola@gmail.com) | [💼 View Services](https://ocholar.github.io/services.html) | [📊 See Portfolio](https://ocholar.github.io/portfolio.html)
