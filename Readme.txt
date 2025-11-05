@@ -1,4 +1,5 @@
 # Reagan Ochola – Strategic MEL Leader & Data Analytics Specialist  
+*(Portfolio README – updated 2025)*
 
 ---
 
@@ -47,11 +48,11 @@ I help agriculture and development organisations transform raw field data into i
 
 | Project | Scope | Impact | Tools | Code |
 |---|---|---|---|---|
-| **Kenya MSME Manufacturing Analysis** | 5 016 MSME firms | 11 277 jobs identified, 8.1 % training-efficiency gain | Python, Power BI, SQL | [Repo](https://github.com/Ocholar/mel-case-study-kenya) |
+| **Kenya MSME Manufacturing Analysis** | 5 016 firms | 11 277 jobs identified, 8.1 % training-efficiency gain | Python, Power BI, SQL | [Repo](https://github.com/Ocholar/mel-case-study-kenya) |
 | **East Africa Maize Yield Dashboard** | 18 000+ farmers (3 countries) | Real-time crop-planning decisions | Power BI, SQL | [Repo](https://github.com/Ocholar/East_Africa_Maize_Yield_Insights) |
 | **AgroImageryTimeline** | 85 000+ geotagged field images | Enhanced satellite-alignment for crop monitoring | Python, SQL | [Repo](https://github.com/Ocholar/AgroImageryTimeline) |
 | **AgroDashboard** | Geospatial maize-yield clustering | Live yield-analytics web-app | Plotly Dash, Python | [Repo](https://github.com/Ocholar/AgroDashboard) |
-| **Financial Pricing Model Analysis** | Agricultural products pricing optimisation | Statistical modelling & forecasting | Python, Excel | [Repo](https://github.com/Ocholar/Financial-Pricing-Model-Analysis) |
+| **Financial Pricing Model Analysis** | Manufacturing pricing optimisation | Statistical modelling & forecasting | Python, Excel | [Repo](https://github.com/Ocholar/Financial-Pricing-Model-Analysis) |
 
 ---
 
@@ -67,7 +68,7 @@ I help agriculture and development organisations transform raw field data into i
    Donor-compliant frameworks (USAID, etc.) with **35 %** error-reduction protocols.  
 
 4. **Field Data Management**  
-   **50+ officer** deployments, **>95 %** accuracy via CommCare & Kobo Toolbox.  
+   **50+ officer** deployments, **&gt;95 %** accuracy via CommCare & Kobo Toolbox.  
 
 5. **Quantitative Research & Analysis**  
    Python, SQL, SPSS – MSME studies, training-impact, gender-equity analysis.  
@@ -78,7 +79,7 @@ I help agriculture and development organisations transform raw field data into i
 ---
 
 ## 🌍 Geographic Focus  
-**Primary:** EAst Africa  
+**Primary:** Kenya, East Africa  
 **Base:** Nairobi County, Kenya  
 
 ---
@@ -100,6 +101,7 @@ I help agriculture and development organisations transform raw field data into i
 
 ## 🏆 Recent Certifications (2025)  
 
+- **USAID MEL Fundamentals** – USAID (2024)  
 - **Google Business Intelligence Certificate** – Coursera (2025)  
 - **Artificial Intelligence for MEL** – Alison (2025)  
 - **Career Essentials in Data Analysis** – Microsoft & LinkedIn (2025)  
@@ -114,5 +116,5 @@ I help agriculture and development organisations transform raw field data into i
 
 ---
 
-**Ready to transform your dataset into actionable intelligence?**  
+**Ready to transform your agricultural data into actionable intelligence?**  
 [📧 Get In Touch](mailto:reaochola@gmail.com) | [💼 View Services](https://ocholar.github.io/services.html) | [📊 See Portfolio](https://ocholar.github.io/portfolio.html)
