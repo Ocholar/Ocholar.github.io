@@ -101,7 +101,6 @@ I help agriculture and development organisations transform raw field data into i
 
 ## 🏆 Recent Certifications (2025)  
 
-- **USAID MEL Fundamentals** – USAID (2024)  
 - **Google Business Intelligence Certificate** – Coursera (2025)  
 - **Artificial Intelligence for MEL** – Alison (2025)  
 - **Career Essentials in Data Analysis** – Microsoft & LinkedIn (2025)  
