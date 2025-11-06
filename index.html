@@ -1,90 +1,127 @@
-<section id="hero" class="hero section">
-  <div class="container" data-aos="fade-up" data-aos-delay="100">
-    <div class="row gy-4 align-items-center justify-content-center text-center">
-      
-      <div class="col-lg-7 order-2 order-lg-1">
-        <div class="hero-content">
-          <h1 data-aos="fade-up" data-aos-delay="200">Hello, I'm <span class="highlight">Reagan Ochola</span></h1>
-          <h2 data-aos="fade-up" data-aos-delay="300">Welcome to My Strategic MEL & Data Analytics Hub</h2>
-          <p data-aos="fade-up" data-aos-delay="400">
-            Strategic MEL leader with 9+ years of experience designing robust monitoring, evaluation, and learning frameworks
-            for multi-country donor-funded programs. Adept at translating complex data into actionable insights to drive
-            evidence-based decision-making and enhance program sustainability.
-          </p>
-          <p>Based in Nairobi, Kenya, I help agriculture and development organisations optimise operations through data-driven
-            decision making. My expertise bridges complex agricultural data and practical, actionable intelligence.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-          <!-- Feature Grid -->
-          <div class="row mt-4">
-            <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
-              <div class="feature-box text-center">
-                <i class="bi bi-graph-up text-primary fs-1"></i>
-                <h5>Data Analytics</h5>
-                <p>Cut survey errors <strong>35%</strong> and transform raw field data into actionable insights</p>
-              </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
-              <div class="feature-box text-center">
-                <i class="bi bi-speedometer2 text-primary fs-1"></i>
-                <h5>Power BI Dashboards</h5>
-                <p>Real-time monitoring solutions that reduce reporting TAT <strong>50%</strong></p>
-              </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
-              <div class="feature-box text-center">
-                <i class="bi bi-clipboard-data text-primary fs-1"></i>
-                <h5>MEL Frameworks</h5>
-                <p>Donor-compliant frameworks managing <strong>50+ staff</strong> across multiple counties</p>
-              </div>
-            </div>
-          </div>
+  <title>Reagan Ochola | Data & MEL Analytics Portfolio</title>
+  <meta name="description" content="Portfolio of Reagan Ochola — Strategic MEL & Data Analytics Specialist helping organizations turn data into actionable insights.">
+  <meta name="keywords" content="Reagan Ochola, MEL Specialist, Data Analyst, Power BI, Tableau, Monitoring and Evaluation, Kenya">
 
-          <!-- Featured Projects -->
-          <div class="mt-5" data-aos="fade-up" data-aos-delay="500">
-            <h4 class="text-center">See How Data Drives Strategic Impact</h4>
-            <div class="row g-3 justify-content-center">
-              <div class="col-md-6">
-                <div class="card h-100">
-                  <div class="card-body text-center">
-                    <h6 class="card-title">Kenya MSME Manufacturing Analysis</h6>
-                    <p class="card-text">5,016 firms, 11,277 jobs, 39.8% female-owned employment</p>
-                    <a href="portfolio-details.html" class="btn btn-sm btn-primary">View Details</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="card h-100">
-                  <div class="card-body text-center">
-                    <h6 class="card-title">Agricultural Production Analysis</h6>
-                    <p class="card-text">County-level agricultural data analysis for sustainability and food security.</p>
-                    <a href="https://github.com/Ocholar/county-agricultural-production-analysis" target="_blank"
-                      class="btn btn-sm btn-outline-primary">
-                      <i class="bi bi-github"></i> View Code
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
 
-          <div class="hero-actions d-flex justify-content-center gap-3 mt-4">
-            <a href="portfolio.html" class="btn btn-primary">Explore Case Studies</a>
-            <a href="contact.html" class="btn btn-outline-primary">Discuss Your Strategy</a>
-          </div>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
-          <div class="social-links d-flex justify-content-center gap-3 mt-4">
-            <a href="#"><i class="bi bi-twitter-x"></i></a>
-            <a href="https://www.linkedin.com/in/reagan-ochola-aba10927" target="_blank"><i class="bi bi-linkedin"></i></a>
-            <a href="#"><i class="bi bi-github"></i></a>
-            <a href="#"><i class="bi bi-dribbble"></i></a>
-          </div>
-        </div>
-      </div>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
-      <div class="col-lg-5 order-1 order-lg-2">
-        <img src="assets/img/profile-img.jpg" class="img-fluid rounded-circle shadow-lg" alt="Reagan Ochola"
-          data-aos="zoom-in" data-aos-delay="100">
-      </div>
-    </div>
-  </div>
-</section>
+  <!-- Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+
+  <!-- AOS Animation -->
+  <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+  <style>
+    body {
+      font-family: "Inter", sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    /* HERO SECTION */
+    .hero {
+      padding-top: 60px;
+      padding-bottom: 60px;
+      background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 100%);
+    }
+
+    .hero .row {
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .hero .col-lg-7,
+    .hero .col-lg-5 {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .hero .highlight {
+      color: #007bff;
+    }
+
+    .hero h1 {
+      font-weight: 700;
+      font-size: 2.5rem;
+    }
+
+    .hero h2 {
+      font-weight: 500;
+      font-size: 1.25rem;
+      color: #555;
+      margin-bottom: 1rem;
+    }
+
+    .hero p {
+      color: #555;
+      margin-bottom: 1rem;
+      max-width: 750px;
+    }
+
+    .hero .col-lg-5 img {
+      max-width: 280px;
+      height: auto;
+      margin: 20px auto 0;
+      display: block;
+    }
+
+    .hero .feature-box {
+      background: #fff;
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .hero .feature-box:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+    }
+
+    .hero .row.mt-4 {
+      justify-content: center;
+      gap: 20px;
+      margin-top: 2rem !important;
+    }
+
+    .hero .card {
+      border: none;
+      border-radius: 16px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+      transition: all 0.2s ease-in-out;
+    }
+
+    .hero .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 5px 14px rgba(0,0,0,0.08);
+    }
+
+    .hero .hero-actions .btn {
+      border-radius: 30px;
+      padding: 10px 20px;
+      font-weight: 600;
+    }
+
+    .hero .social-links a {
+      color: #333;
+      font-size: 1.2rem;
+      transition: color 0.2s;
+    }
+
+    .hero .social-links a:hover {
