@@ -1,127 +1,131 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reagan Ochola | MEL & Data Analytics Portfolio</title>
 
-  <title>Reagan Ochola | Data & MEL Analytics Portfolio</title>
-  <meta name="description" content="Portfolio of Reagan Ochola — Strategic MEL & Data Analytics Specialist helping organizations turn data into actionable insights.">
-  <meta name="keywords" content="Reagan Ochola, MEL Specialist, Data Analyst, Power BI, Tableau, Monitoring and Evaluation, Kenya">
+  <!-- ✅ Bootstrap 5 CSS (with integrity & crossorigin for GitHub Pages) -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" 
+        rel="stylesheet" 
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" 
+        crossorigin="anonymous">
 
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <!-- ✅ Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Icons -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
-
-  <!-- AOS Animation -->
+  <!-- ✅ AOS Animation -->
   <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
   <style>
     body {
-      font-family: "Inter", sans-serif;
-      background-color: #f8f9fa;
-      color: #333;
+      font-family: 'Inter', sans-serif;
+      background-color: #0b111b;
+      color: #f8f9fa;
+      text-align: center;
       line-height: 1.6;
     }
 
-    /* HERO SECTION */
     .hero {
-      padding-top: 60px;
-      padding-bottom: 60px;
-      background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 100%);
-    }
-
-    .hero .row {
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-    }
-
-    .hero .col-lg-7,
-    .hero .col-lg-5 {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .hero .highlight {
-      color: #007bff;
+      padding: 80px 0;
     }
 
     .hero h1 {
-      font-weight: 700;
       font-size: 2.5rem;
+      font-weight: 700;
+      color: #00b4d8;
     }
 
     .hero h2 {
-      font-weight: 500;
-      font-size: 1.25rem;
-      color: #555;
-      margin-bottom: 1rem;
+      font-size: 1.2rem;
+      color: #adb5bd;
+      margin-bottom: 1.5rem;
     }
 
     .hero p {
-      color: #555;
-      margin-bottom: 1rem;
-      max-width: 750px;
+      color: #dee2e6;
+      max-width: 800px;
+      margin: 0 auto 2rem;
     }
 
-    .hero .col-lg-5 img {
-      max-width: 280px;
-      height: auto;
-      margin: 20px auto 0;
-      display: block;
+    .feature-box {
+      background: #131c2b;
+      border-radius: 12px;
+      padding: 25px 15px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+      transition: transform 0.2s ease-in-out;
     }
 
-    .hero .feature-box {
-      background: #fff;
-      border-radius: 16px;
-      padding: 20px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
-
-    .hero .feature-box:hover {
+    .feature-box:hover {
       transform: translateY(-5px);
-      box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+    }
+
+    .feature-box i {
+      color: #00b4d8;
+      font-size: 2rem;
+      margin-bottom: 10px;
     }
 
     .hero .row.mt-4 {
       justify-content: center;
       gap: 20px;
-      margin-top: 2rem !important;
     }
 
-    .hero .card {
+    .card {
+      background: #131c2b;
       border: none;
-      border-radius: 16px;
-      box-shadow: 0 3px 10px rgba(0,0,0,0.05);
-      transition: all 0.2s ease-in-out;
+      color: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     }
 
-    .hero .card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 5px 14px rgba(0,0,0,0.08);
+    .card a {
+      text-decoration: none;
     }
 
-    .hero .hero-actions .btn {
-      border-radius: 30px;
-      padding: 10px 20px;
-      font-weight: 600;
+    .btn-primary {
+      background-color: #00b4d8;
+      border: none;
     }
 
-    .hero .social-links a {
-      color: #333;
-      font-size: 1.2rem;
-      transition: color 0.2s;
+    .btn-outline-primary {
+      color: #00b4d8;
+      border-color: #00b4d8;
     }
 
-    .hero .social-links a:hover {
+    .btn-outline-primary:hover {
+      background-color: #00b4d8;
+      color: #fff;
+    }
+
+    footer {
+      background: #131c2b;
+      padding: 20px;
+      color: #adb5bd;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+
+<body>
+  <section class="hero">
+    <div class="container">
+      <h1 data-aos="fade-up">Welcome to My Strategic MEL & Data Analytics Hub</h1>
+      <h2 data-aos="fade-up" data-aos-delay="100">Transforming data into actionable insights for agriculture and development.</h2>
+      <p data-aos="fade-up" data-aos-delay="200">
+        Strategic MEL leader with 9+ years of experience designing robust monitoring, evaluation, and learning frameworks
+        for donor-funded programs. Based in Nairobi, Kenya — helping organizations optimize operations through
+        data-driven decision making.
+      </p>
+
+      <div class="row mt-4">
+        <div class="col-md-3 feature-box" data-aos="fade-up" data-aos-delay="100">
+          <i class="bi bi-graph-up"></i>
+          <h5>Data Analytics</h5>
+          <p>Cut survey errors <b>35%</b> and transform field data into actionable insights.</p>
+        </div>
+        <div class="col-md-3 feature-box" data-aos="fade-up" data-aos-delay="200">
+          <i class="bi bi-speedometer2"></i>
+          <h5>Power BI Dashboards</h5>
+          <p>Real-time monitoring solutions reducing reporting TAT <b>50%</b>.</p>
+        </div>
