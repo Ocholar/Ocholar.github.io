@@ -3,7 +3,7 @@
 
 ---
 
-## 🌾 Turning Data into Actionable Intelligence for Agriculture and Development  
+## 🌾 Turning Data into Actionable Intelligence for Scalable Impact  
 
 Welcome to my professional portfolio showcasing **9 years** of designing robust Monitoring, Evaluation & Learning (MEL) frameworks for multi-country donor programmes across East Africa.
 
